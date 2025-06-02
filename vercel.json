@@ -8,6 +8,7 @@
   "framework": "nextjs",
   "installCommand": "npm install",
   "buildCommand": "npm run build",
+  "target": "static",
   "routes": [
     {
       "src": "/(.*)",

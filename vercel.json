@@ -8,7 +8,6 @@
   "framework": "nextjs",
   "installCommand": "npm install",
   "buildCommand": "npm run build",
-  "functions": {},
   "routes": [
     {
       "src": "/(.*)",
